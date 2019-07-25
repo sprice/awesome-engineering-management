@@ -25,7 +25,7 @@
 
 | Podcast | Hosts | URL | Description |
 |---------|-------|-----|-------------|
-| <img alt="Managing Up" src="/media/pod-managing-up.jpg" width="100px" /> | Multiple | https://managingup.show | Management tips, stories, and interviews to help navigate the challenges of managing creative and technical teams. |
+| <img alt="Managing Up" src="/media/pod-managing-up.jpg" width="100px" /> | Multiple | https://managingup.simplecast.com/ | Management tips, stories, and interviews to help navigate the challenges of managing creative and technical teams. |
 
 
 ## Communities
